@@ -101,7 +101,7 @@ Team Tigella came in 11th place! Claim to fame: Scored 3 points before the hosts
 
 ## Details
 Gender: 	Male  
-DOB: 		28/04/1987 (29)  
+DOB: 		28/04/1987 (30)  
 Nearest Tube: Leicester Square
 Email: 		josephwolf.uk@gmail.com     
 Twitter:		[@misterjwolf](https://twitter.com/MisterJWolf)   

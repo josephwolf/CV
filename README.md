@@ -12,7 +12,7 @@ When I did, many of my friends told me I should really have done that years ago,
 Over a relatively short space of time, I've picked up an extremely broard range of skills. I try not to be intimidated by large tasks or unfamiliar tech. I feel the most important thing in a workplace is creativity and a positive attitude. Everything else that's important - productivity, communication, sustainability - tend to follow from that.
 
 ## Experience
-####Crowdmix
+#### Crowdmix
 Web developer, Server Developer, Internal Developer, Code Security Officer, QA Tester and Data Analyst (2015 - 2016)
 
 Crowdmix was a promising startup to create a social network app that focused on music. This was my first real tech job was probably the best I could have hoped for, in terms of experience. Outside of the founders themselves, I was the only developer to have seen the company all the way through from its creation, to eventual collapse into administration.
@@ -79,7 +79,7 @@ Somewhere between a grassroots collective and a mad science laboratory. HackSpac
 #### Hacker Olympics 2014
 Team Tigella came in 11th place! Claim to fame: Scored 3 points before the hosts had finished explaining the rules.
 
-##Details
+## Details
 Gender: 	Male  
 DOB: 		28/04/1987 (29)  
 Nearest Tube:	Tottenham Court Road  

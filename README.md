@@ -9,9 +9,29 @@ A recession later I was still in the same job. I'd been offered to try out for b
 I started thinking about those conversations I'd had as a kid, wondered why it never occurred to me to take the direct route towards the games industry. So I decided to learn how to program.  
 When I did, many of my friends told me I should really have done that years ago, because I've the right mind for it. When I started my course at Makers Academy, I was quite surprised to discover they were right. I started learning very quickly and enjoyed it immensely, especially front-end web development. From there I was lucky enough to have a contact at a new startup called Crowdmix, where I got to work along-side some coding heavy-weights, and experience first hand an Agile work-place, with many XP practices.
 
-Over a relatively short space of time, I've picked up an extremely broard range of skills. I try not to be intimidated by large tasks or unfamiliar tech. I feel the most important thing in a workplace is creativity and a positive attitude. Everything else that's important - productivity, communication, sustainability - tend to follow from that.
+Over a relatively short space of time, I've picked up an extremely broard range of skills. I try not to be intimidated by large tasks or unfamiliar tech. I feel the most important thing in a workplace is creativity and a positive attitude. Everything else that's important - productivity, communication, sustainability - tend to follow from that. 
+More recently I find myself trying to understand more abstract concepts such as scalability and data archetecture, and actually understand what they mean and how they work, rather than merely acknowledge trendy buzzwords.
 
 ## Experience
+
+#### Tagmix
+Full Stack Web Developer (2017 - present)
+
+Much like the similarly named (but unrelated) Crowdmix, I was brought on to the team as a web developer. With a grand total of 5 people in the company, my responsibilities covered almost anything web related. Tagmix was another music app with a social focus, and I was responsible for the public facing **Wordpress** site, as well as developing internal tools, database management, email integrations, and data analysis.
+
+As well as the Wordpress site (which you can sample at: http://tagmix.me/), I developed an internal tool for monitoring and reviewing user content using **React** and **Redux**. The learning curve on these frameworks was admittedly steep, but I'm increasingly coming to terms understanding the benefits of its compartmentalized structure and event flow.
+As more and more features were requested, I began working more extensively with **AWS Lambda** and **AWS API Gateway** to create various microservices that would do things like query a **Firebase** data set, read, write and delete from email subscription lists, generate static webpages for redirection to appropriate app download pages, or routinely update analytics tools with fresh user data. I've made perhaps 25 microservices in this way, and enjoy how compact and scalable they are.
+
+I've done a significant amount of data analysis too, using **MySql** (my least favourite SQL flavour so far), and visualizing the data using tools such as **Geckoboard** and **Quicksight**. Much discussion was made regarding how analysis data should be collected, propagated and visualized, and I started developing an understanding of what 'clean' data should look like.
+Being the sole web developer, I was also left largely in charge of the cosmetic side of the sites. Wordpress, I've learned is something you must often wrestle with in this regard, unless you start writing plugins yourself or want to pay a significant amount of money, but there's all kinds of tricks to fool it into behaving how you want.
+
+#### Jaunt.ai
+NLP trainer and Developer (2016)
+
+After my time at Crowdmix, I was picked up by a relatively tiny startup that aspired to be a holiday planning app, that interacted via chat recognition. I learned how to use and program Google's API.AI NLP service, and worked extensively to develop the logical flow of conversation with the robot. Despite being a very user-facing technology, some of the challenges were complex and fascinating. A high point was when I diagrammed out the entire conversation that persisted multiple contexts. Eventually, Google introduced new features to the service to deal with some of the issues I had already solved, though my solution proved more reliable.
+
+My time with Jaunt only lasted a few months before the project was ultimately abandoned due to management issues. :(
+
 #### Crowdmix
 Web developer, Server Developer, Internal Developer, Code Security Officer, QA Tester and Data Analyst (2015 - 2016)
 
@@ -82,7 +102,7 @@ Team Tigella came in 11th place! Claim to fame: Scored 3 points before the hosts
 ## Details
 Gender: 	Male  
 DOB: 		28/04/1987 (29)  
-Nearest Tube:	Tottenham Court Road  
+Nearest Tube: Leicester Square
 Email: 		josephwolf.uk@gmail.com     
 Twitter:		[@misterjwolf](https://twitter.com/MisterJWolf)   
 LinkedIn: 	[Joseph Wolf](https://uk.linkedin.com/in/joseph-wolf-51a32398)  

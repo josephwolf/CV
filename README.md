@@ -1,16 +1,22 @@
+
 # Joseph Wolf
 ### Developer, Nerd & Ne'er do-well
 
 ## Bio
 Hi! I'm Joey and I'm a huge nerd.
-When I was 11, my friends and I would often talk about video games and we'd come up with ideas about what sort of game we would make. At some point I decided this was an unrealistic idea and for some reason life as a professional artist was a much safer bet.  
-This went almost as badly as one might expect, though I was briefly featured in a gallery in Brixton in 2005. After finishing some travel and a small Art degree, the economy was looking scary and I decided to work in catering while waiting for the situation to improve.  
-A recession later I was still in the same job. I'd been offered to try out for being a manager more than once, but turned it down because the one thing I was sure about was this was definitely not what I wanted to do with myself. I started to re-assess what I was doing.  
-I started thinking about those conversations I'd had as a kid, wondered why it never occurred to me to take the direct route towards the games industry. So I decided to learn how to program.  
-When I did, many of my friends told me I should really have done that years ago, because I've the right mind for it. When I started my course at Makers Academy, I was quite surprised to discover they were right. I started learning very quickly and enjoyed it immensely, especially front-end web development. From there I was lucky enough to have a contact at a new startup called Crowdmix, where I got to work along-side some coding heavy-weights, and experience first hand an Agile work-place, with many XP practices.
+I've always been a huge nerd, but for a long time I thought programming meant something artless, soulless, and without compromise, so for much of my young adulthood I ignored many of my friends who observed I had a brilliantly technical and analytical mind. Instead, I wanted to be an artist.
+One small gallery exhibition (Brixton 2005), and 7 years of catering industry later, I was having second thoughts.
+By now, two exes, three friends, and my flatmate were all programmers, and collectively they convinced me to give his computer malarkey a go. To nobody's surprise except mine, I was not only pretty good at it, I really enjoyed it.
 
-Over a relatively short space of time, I've picked up an extremely broard range of skills. I try not to be intimidated by large tasks or unfamiliar tech. I feel the most important thing in a workplace is creativity and a positive attitude. Everything else that's important - productivity, communication, sustainability - tend to follow from that. 
-More recently I find myself trying to understand more abstract concepts such as scalability and data archetecture, and actually understand what they mean and how they work, rather than merely acknowledge trendy buzzwords.
+I signed up for an intensive coding bootcamp; Maker's Academy. Less of a school, more a kind of mad experiment to turn every human into a programmer. Within the space of a week you might be exposed to a dozen languages, frameworks and libraries. The focus was less on the basest level of technical understanding (though that too was sometimes included) and more on what was universally true for all programming.
+Interestingly, perhaps half of the course was on code *practice* rather than coding itself. Agile methodology, pair programming, and a zealous insistence on Test Driven Development.
+
+Since graduating I've been an integral part of 4 startups of various sizes, doing nearly every kind of technical job I can think of at least once. I'm often asked 'What sort of programmer are you?' or 'What kind of coding do you prefer?' 'Front end or back end?'.
+I've never not been a full-stack guy. I believe at the end of the day, development is the same, no matter how close to the metal you are. Sometimes a front-end dev needs to know how to re-arrange a server or construct a database. Sometimes a back-end needs to understand the limitations of what can be rendered, or proper API etiquette. As I've grown more experienced, I've learned what's common across frameworks and languages and what isn't.
+If you can do a little bit of everything, even the things you don't know get easier to understand.
+
+I'm always excited about the future. I'm finally good enough with one language (javascript) to consider it my 'base' and can lean on it for preference if asked - which was a goal I had set for myself a few years back. 
+What's the new goal? Working in tiny startups is fantastic fun, but they care about 'fast' not 'rigorous process'. It's time to go back to producing the cleanest code possible and doing proper TDD.
 
 ## Experience
 
@@ -20,7 +26,7 @@ Full Stack Web Developer (2017 - present)
 Much like the similarly named (but unrelated) Crowdmix, I was brought on to the team as a web developer. With a grand total of 5 people in the company, my responsibilities covered almost anything web related. Tagmix was another music app with a social focus, and I was responsible for the public facing **Wordpress** site, as well as developing internal tools, database management, email integrations, and data analysis.
 
 As well as the Wordpress site (which you can sample at: http://tagmix.me/), I developed an internal tool for monitoring and reviewing user content using **React** and **Redux**. The learning curve on these frameworks was admittedly steep, but I'm increasingly coming to terms understanding the benefits of its compartmentalized structure and event flow.
-As more and more features were requested, I began working more extensively with **AWS Lambda** and **AWS API Gateway** to create various microservices that would do things like query a **Firebase** data set, read, write and delete from email subscription lists, generate static webpages for redirection to appropriate app download pages, or routinely update analytics tools with fresh user data. I've made perhaps 25 microservices in this way, and enjoy how compact and scalable they are.
+As more and more features were requested, I began working more extensively with **AWS Lambda** and **AWS API Gateway** to create various microservices that would do things like query a **Firebase** data set, read, write and delete from email subscription lists, generate static webpages for redirection to appropriate app download pages, or routinely update analytics tools with fresh user data. I've made perhaps 40 microservices in this way, and enjoy how compact and scalable they are.
 
 I've done a significant amount of data analysis too, using **MySql** (my least favourite SQL flavour so far), and visualizing the data using tools such as **Geckoboard** and **Quicksight**. Much discussion was made regarding how analysis data should be collected, propagated and visualized, and I started developing an understanding of what 'clean' data should look like.
 Being the sole web developer, I was also left largely in charge of the cosmetic side of the sites. Wordpress, I've learned is something you must often wrestle with in this regard, unless you start writing plugins yourself or want to pay a significant amount of money, but there's all kinds of tricks to fool it into behaving how you want.
@@ -52,9 +58,9 @@ In every role I've had, I've had to learn new skills with little preparation. I'
 #### Paramount, Center Point
 Kitchen Runner & Events Waiter (2009 - 2014)
 
-Work was physically demanding, fast-paced and with little room for error. Though far from glamorous, I learned many skills including teamwork, quick judgment decision making, clear and concise communication and above all, customer satisfaction. I can also make a decent cappuccino.
+Work was physically demanding, fast-paced and with little room for error. Though far from glamorous, I learned many skills including teamwork, quick judgment decision making, clear and concise communication and above all, customer satisfaction. I can also make a decent cocktail.
 
-I didn't like this job very much. The hours were as unsocial as you can get and chefs occasionally threw plates at your head.
+For the record, I *could* have gone for a manager position here, but I don't hate myself that much. The hours were unsocial, the chefs occasionally threw plates at your head, people looked at you funny if you liked Pokemon.
 
 ## Education
 #### Makers Academy (March Cohort 2014)
@@ -88,22 +94,23 @@ I have a knack for putting things together, and fixing mechanical problems that 
 Maybe not all of them. I was never great at fighter games or RTSs. Some of my favorites include Dark Souls, Undertale, The Stanley Parable, The Elder Scrolls, Borderlands and Bioshock.
 
 ## Extra Activities
-#### SoCraTes UK 2015
-A fantastic un-conference near Guildford where developers discuss their passion, best practices, run workshops and demonstrations and have fun.
-#### London Scala Users' Group
-A regular meetup in London for Scala developers to workshop, exchange katas and projects, and discuss technique and practice.
-#### London Gaymers
-A London-based games group for LGBT men to relax, have fun, and provide a safe environment to unwind and be yourself.
+####  London JavaScript Community
+A regular meetup in London for JavaScript developers to workshop, exchange katas and projects, and discuss technique and practice.
+#### Queer Code London
+If you like a little diversity in your team (and who doesn't!) I like to say active in LGBT+ communities. The content is much like any other code group, but it's good to have another thing in common.
 #### HackSpace London
 Somewhere between a grassroots collective and a mad science laboratory. HackSpace provides workshops, tools, tutorials and space for all manner of hardware and software projects.
+#### SoCraTes UK 
+A fantastic un-conference near Guildford where developers discuss their passion, best practices, run workshops and demonstrations and have fun.
 #### Hacker Olympics 2014
 Team Tigella came in 11th place! Claim to fame: Scored 3 points before the hosts had finished explaining the rules.
 
 ## Details
 Gender: 	Male  
-DOB: 		28/04/1987 (30)  
+DOB: 		28/04/1987 (31)  
 Nearest Tube: Leicester Square
 Email: 		josephwolf.uk@gmail.com     
 Twitter:		[@misterjwolf](https://twitter.com/MisterJWolf)   
 LinkedIn: 	[Joseph Wolf](https://uk.linkedin.com/in/joseph-wolf-51a32398)  
 GitHub:		[Joseph Wolf](https://github.com/josephwolf)  
+Website:		[I made this!](https://ec0rlfwut8.execute-api.eu-west-2.amazonaws.com/live)   (oh god, it's just for fun, don't take it seriously)

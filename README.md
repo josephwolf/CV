@@ -21,7 +21,7 @@ What's the new goal? Working in tiny startups is fantastic fun, but they care ab
 ## Experience
 
 #### Tagmix
-Full Stack Web Developer (2017 - present)
+Full Stack Web Developer (2017 - 2018)
 
 Much like the similarly named (but unrelated) Crowdmix, I was brought on to the team as a web developer. With a grand total of 5 people in the company, my responsibilities covered almost anything web related. Tagmix was another music app with a social focus, and I was responsible for the public facing **Wordpress** site, as well as developing internal tools, database management, email integrations, and data analysis.
 

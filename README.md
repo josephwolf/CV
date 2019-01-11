@@ -16,30 +16,30 @@ I've never not been a full-stack guy. I believe at the end of the day, developme
 If you can do a little bit of everything, even the things you don't know get easier to understand.
 
 I'm always excited about the future. I'm finally good enough with one language (javascript) to consider it my 'base' and can lean on it for preference if asked - which was a goal I had set for myself a few years back. 
-What's the new goal? Working in tiny startups is fantastic fun, but they care about 'fast' not 'rigorous process'. It's time to go back to producing the cleanest code possible and doing proper TDD.
+The most important thing to me now is getting more rigorous about my process. Make cleaner code, use TDD, make it feel natural. After having worked solo for so long, It’d be great to be part of a team again.
 
 ## Experience
 
 #### Tagmix
-Full Stack Web Developer (2017 - 2018)
+Full Stack Web Developer (May 2017 – Jun 2018, Oct 2018 - present)
 
-Much like the similarly named (but unrelated) Crowdmix, I was brought on to the team as a web developer. With a grand total of 5 people in the company, my responsibilities covered almost anything web related. Tagmix was another music app with a social focus, and I was responsible for the public facing **Wordpress** site, as well as developing internal tools, database management, email integrations, and data analysis.
+Much like the similarly named (but unrelated) Crowdmix, I was brought on to the team as a web developer. With a grand total of 5 people in the company, my responsibilities covered almost anything web related. Tagmix was another music app with a social focus, and I was responsible for the public facing Wordpress site, as well as developing internal tools, database management, email integrations, and data analysis.
+As well as the Wordpress site (which you can sample at: http://tagmix.me/), I developed an internal tool for monitoring and reviewing user content using React and Redux. The learning curve on these frameworks was admittedly steep, but I’m increasingly coming to terms understanding the benefits of its compartmentalized structure and event flow.
+As more and more features were requested, I began working more extensively with AWS Lambda and AWS API Gateway to create various microservices that would do things like query a Firebase data set, read, write and delete from email subscription lists, generate static webpages for redirection to appropriate app download pages, or routinely update analytics tools with fresh user data. I’ve made perhaps 40 microservices in this way, and enjoy how compact and scalable they are.
+I’ve done a significant amount of data analysis too, using MySql (my least favourite SQL flavour so far), and visualizing the data using tools such as Geckoboard and Quicksight. Much discussion was made regarding how analysis data should be collected, propagated and visualized, and I started developing an understanding of what ‘clean’ data should look like.
+Being the sole web developer, I was also left largely in charge of the cosmetic side of the sites. Wordpress, I’ve learned is something you must often wrestle with in this regard, unless you start writing plugins yourself or want to pay a significant amount of money, but there’s all kinds of tricks to fool it into behaving how you want.
+Currently, I am working on a large Serverless project to produce back end data for TagMix’s app.
 
-As well as the Wordpress site (which you can sample at: http://tagmix.me/), I developed an internal tool for monitoring and reviewing user content using **React** and **Redux**. The learning curve on these frameworks was admittedly steep, but I'm increasingly coming to terms understanding the benefits of its compartmentalized structure and event flow.
-As more and more features were requested, I began working more extensively with **AWS Lambda** and **AWS API Gateway** to create various microservices that would do things like query a **Firebase** data set, read, write and delete from email subscription lists, generate static webpages for redirection to appropriate app download pages, or routinely update analytics tools with fresh user data. I've made perhaps 40 microservices in this way, and enjoy how compact and scalable they are.
-
-I've done a significant amount of data analysis too, using **MySql** (my least favourite SQL flavour so far), and visualizing the data using tools such as **Geckoboard** and **Quicksight**. Much discussion was made regarding how analysis data should be collected, propagated and visualized, and I started developing an understanding of what 'clean' data should look like.
-Being the sole web developer, I was also left largely in charge of the cosmetic side of the sites. Wordpress, I've learned is something you must often wrestle with in this regard, unless you start writing plugins yourself or want to pay a significant amount of money, but there's all kinds of tricks to fool it into behaving how you want.
 
 #### Jaunt.ai
-NLP trainer and Developer (2016)
+NLP trainer and Developer (Jan – Mar 2016)
 
 After my time at Crowdmix, I was picked up by a relatively tiny startup that aspired to be a holiday planning app, that interacted via chat recognition. I learned how to use and program Google's API.AI NLP service, and worked extensively to develop the logical flow of conversation with the robot. Despite being a very user-facing technology, some of the challenges were complex and fascinating. A high point was when I diagrammed out the entire conversation that persisted multiple contexts. Eventually, Google introduced new features to the service to deal with some of the issues I had already solved, though my solution proved more reliable.
 
 My time with Jaunt only lasted a few months before the project was ultimately abandoned due to management issues. :(
 
 #### Crowdmix
-Web developer, Server Developer, Internal Developer, Code Security Officer, QA Tester and Data Analyst (2015 - 2016)
+Web developer, Server Developer, Internal Developer, Code Security Officer, QA Tester and Data Analyst (Oct 2014 -  Jul 2016)
 
 Crowdmix was a promising startup to create a social network app that focused on music. This was my first real tech job was probably the best I could have hoped for, in terms of experience. Outside of the founders themselves, I was the only developer to have seen the company all the way through from its creation, to eventual collapse into administration.
 During my time there I had several official roles, and even more unofficial ones. I helped with the feature design, the database structure, developer operations, design work, even arranged the parties. 
